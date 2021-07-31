@@ -1,7 +1,7 @@
 <!-- Title -->
 <div align="center">
   <h1 align="center">G A B R I E L &nbsp; DE &nbsp; S O U Z A</h1>
-  <b>Student | Developer | Pothead </b>
+  <b>Student | Developer</b>
 </div>
 
 <div align="center">
