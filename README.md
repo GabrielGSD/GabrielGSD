@@ -11,9 +11,9 @@
 
 
 ### 👨‍💻 About 
-* 🎓 &nbsp; Studying Computer engineer at <a href="https://inatel.br/home/">Inatel</a>.
+* 🎓 &nbsp; Graduated in Computer engineer at <a href="https://inatel.br/home/">Inatel</a>.
 * 💼 &nbsp; Working as a Software Developer at <a href="https://b2ml.com.br/">B2ML</a>.
-* 🌱 &nbsp; Learning more about front-end technologies.
+* 🌱 &nbsp; Learning more about front-end ana back-end technologies.
 
 ##
 
