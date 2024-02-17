@@ -6,7 +6,7 @@
 
 <div align="center">
   <br>
-  <a href="https://www.linkedin.com/in/gabriel-souza-b1995b216/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+  <a href="www.linkedin.com/in/gabrielsouzadaniel" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
 
 
